@@ -1,0 +1,21 @@
+body{
+  background-color: orange;
+  overflow-x: hidden;
+}
+.card{
+  background-color: orange;
+
+}
+#root{
+  overflow-x: hidden;
+  /* background-color: aqua; */
+}
+
+
+
+/* media queries for small devices */
+
+
+
+/* media queries for big devices */
+
